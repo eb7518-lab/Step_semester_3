@@ -54,3 +54,26 @@
 - Corrected the project folder structure.
 - Created the required `.gitignore` on the feature branch.
 - Faced a temporary GitHub connection error while pushing, then successfully pushed the branch.
+
+
+## Session 3
+
+### Date
+28 August 2026
+
+### Today's Work
+- Completed 5 Java control-flow problems from the Week 3 assignment.
+- Implemented:
+  - Voting Eligibility Checker
+  - Positive, Negative, or Zero Classifier
+  - Print Numbers 1 to N
+  - Sum of Natural Numbers
+  - Day Name From Number
+- Practiced `if/else`, `if/else if/else`, `for`, `while`, and `switch`.
+- Compiled and tested all programs in VS Code.
+- Created and pushed the `feature/session_3` branch.
+
+### Next Session Plan
+- Continue with the next assigned Java problems.
+- Practice control-flow concepts and problem solving.
+- Continue following the Git branching and commit workflow.
