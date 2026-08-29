@@ -77,3 +77,26 @@
 - Continue with the next assigned Java problems.
 - Practice control-flow concepts and problem solving.
 - Continue following the Git branching and commit workflow.
+
+
+## Session 4
+
+### Date
+29 August 2026
+
+### Today's Work
+- Completed 5 Java array problems from the Week 4 assignment.
+- Implemented:
+  - Product of Array Except Self
+  - Maximum Subarray
+  - 3Sum
+  - Subarray Sum Equals K
+  - Trapping Rain Water
+- Practiced array traversal, prefix sums, two-pointer technique, and Kadane's algorithm.
+- Compiled and tested all programs in VS Code.
+- Created and pushed the `feature/session_4` branch.
+
+### Next Session Plan
+- Continue with the next assigned Java problems.
+- Practice array-based problem solving.
+- Continue following the Git branching and commit workflow.
