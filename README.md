@@ -12,6 +12,14 @@
   - Traffic Signal Streak Analyzer
   - Warehouse Inventory Balancer
   - Movie Review Word Length Profiler
+- Completed the Week 1 Class Problems.
+
+- Implemented:
+  - Rock-Paper-Scissors Game
+  - Palindrome Checker using 3 approaches
+  - BMI Calculator for a Team
+  - First Non-Repeating Character
+  - Reverse Customer Name
 - Tested the Java programs in VS Code.
 - Set up `.gitignore` to ignore compiled `.class` files and `bin/`.
 - Committed and pushed the work to the `feature/session_1` branch.
