@@ -108,3 +108,33 @@
 - Continue with the next assigned Java problems.
 - Practice array-based problem solving.
 - Continue following the Git branching and commit workflow.
+
+
+## Session 5
+
+### Date
+
+4 September 2026
+
+### Today's Work
+
+- Created the Week 5 Class Problems.
+- Implemented:
+  - Hackathon Score Curve Booster
+  - Duplicate Team Name Finder
+  - Top-3 Podium Finder
+  - Hackathon Seating Grid Optimizer
+  - Placement Drive Shortlisting & Ranking Engine
+- Compiled and tested the Java programs in VS Code.
+- Committed and pushed the work to the `feature/session_5` branch.
+
+### Next Session Plan
+
+- Continue with the next session's Java programming problems.
+- Implement and test the assigned programs.
+- Follow the Git branching and commit workflow.
+
+### Issues Faced
+
+- No major issues were faced while compiling the Week 5 programs.
+- Successfully added and pushed the Week 5 class problems to GitHub.
