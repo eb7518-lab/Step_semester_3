@@ -108,3 +108,84 @@
 - Continue with the next assigned Java problems.
 - Practice array-based problem solving.
 - Continue following the Git branching and commit workflow.
+
+## Session 5
+
+### Date
+
+4 September 2026
+
+### Today's Work
+
+* Completed the Week 5 Class Problems.
+* Implemented:
+
+  * Hackathon Score Curve Booster
+  * Duplicate Team Name Finder
+  * Top-3 Podium Finder
+  * Hackathon Seating Grid Optimizer
+  * Placement Drive Shortlisting & Ranking Engine
+* Completed the Week 5 Assignment Problems.
+* Implemented:
+
+  * Fantasy Team Score Multiplier
+  * Duplicate Player Pick Checker
+  * Top Performer Tracker
+  * Match Day Grid Analyzer
+  * Fantasy League Auto-Draft Ranking Engine
+* Practiced arrays, methods, nested loops, sorting, and object-oriented programming concepts.
+* Compiled and tested all the Java programs in VS Code.
+* Committed and pushed the work to the `feature/session_5` branch.
+
+### Next Session Plan
+
+* Continue with the next session's Java programming problems.
+* Implement and test the assigned programs.
+* Follow the Git branching and commit workflow.
+
+### Issues Faced
+
+* No major issues were faced while compiling the Week 5 programs.
+* Successfully added and pushed the Week 5 class and assignment problems to GitHub.
+
+## Session 6
+
+### Date
+
+5 September 2026
+
+### Today's Work
+
+* Completed the Week 6 Class Problems.
+* Implemented:
+
+  * Student Placement Record Management
+  * Hostel Mess Wallet Management
+  * Course Credit Management
+  * Library ID Card Management
+  * Student and College Information Management
+* Completed the Week 6 Assignment Problems.
+* Implemented:
+
+  * Library Inventory Management
+  * Payroll Salary Management
+  * Employee Profile Creation
+  * Exam Hall Ticket Reference Management
+  * Employee and Company Information Management
+* Practiced classes and objects, constructors, constructor overloading, constructor chaining, encapsulation, static variables and methods, object references, and object comparison.
+* Compiled and tested all the Java programs in VS Code.
+* Created and pushed the `feature/session_6` branch.
+* Committed and pushed the Week 6 class and assignment problems to GitHub.
+
+### Next Session Plan
+
+* Continue with the next session's Java programming problems.
+* Implement and test the assigned programs.
+* Follow the Git branching and commit workflow.
+
+### Issues Faced
+
+* Faced a class naming conflict because two Week 6 assignment problems used the class name `Employee`.
+* Resolved the conflict by using `EmployeeProfile` and `CompanyEmployee` as separate class names.
+* Successfully compiled, committed, and pushed all Week 6 class and assignment problems to GitHub.
+
