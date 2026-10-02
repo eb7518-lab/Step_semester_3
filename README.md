@@ -189,6 +189,7 @@
 * Resolved the conflict by using `EmployeeProfile` and `CompanyEmployee` as separate class names.
 * Successfully compiled, committed, and pushed all Week 6 class and assignment problems to GitHub.
 
+
 **## Session 7**
 
 **### Date**
@@ -246,3 +247,4 @@
 * Resolved the issue by opening and updating the existing file.
 
 * Successfully compiled, committed, and pushed all Week 7 class and assignment problems to GitHub.
+
