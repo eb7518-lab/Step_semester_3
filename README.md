@@ -248,3 +248,60 @@ Issues Faced
 
 * Successfully compiled, committed, and pushed all Week 7 class and assignment problems to GitHub.
 
+
+##Session 8
+
+Date
+
+2 October 2026
+
+Today's Work
+
+* Completed the Week 8 Class Problems.
+
+* Implemented:
+
+* Payment System Fee Calculation
+
+* Library Item Due Date Calculator
+
+* Delivery Fee Calculator
+
+* Examination Question Grader
+
+* Public Transport Fare Calculator
+
+* Completed the Week 8 Assignment Problems.
+
+* Implemented:
+
+* Canteen Billing Counter
+
+* Campus Parking Charge Calculator
+
+* Hostel Electricity Bill
+
+* Festival Bonus Calculator
+
+* Streaming Plan Renewal Reminder
+
+* Practiced inheritance, interfaces, polymorphism, method overriding, runtime method dispatch, and uniform processing of different object types.
+
+* Compiled and tested all the Java programs in VS Code.
+
+* Committed and pushed the Week 8 class and assignment problems to GitHub.
+
+Next Session Plan
+
+* Continue with the next session's Java programming problems.
+
+* Implement and test the assigned programs.
+
+* Follow the Git branching and commit workflow.
+
+Issues Faced
+
+* No major issues were faced while compiling the Week 8 programs.
+
+* Successfully committed and pushed all Week 8 class and assignment problems to GitHub.
+
