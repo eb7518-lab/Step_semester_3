@@ -189,13 +189,14 @@
 * Resolved the conflict by using `EmployeeProfile` and `CompanyEmployee` as separate class names.
 * Successfully compiled, committed, and pushed all Week 6 class and assignment problems to GitHub.
 
-**## Session 7**
 
-**### Date**
+## Session 7
+
+ Date
 
 21 September 2026
 
-**### Today's Work**
+Today's Work
 
 * Completed the Week 7 Class Problems.
 
@@ -231,7 +232,7 @@
 
 * Committed and pushed the Week 7 class and assignment problems to GitHub.
 
-**### Next Session Plan**
+ Next Session Plan
 
 * Continue with the next session's Java programming problems.
 
@@ -239,7 +240,7 @@
 
 * Follow the Git branching and commit workflow.
 
-**### Issues Faced**
+Issues Faced
 
 * Faced a file already exists issue while creating the *`TrafficLight.java`* file.
 
@@ -247,13 +248,14 @@
 
 * Successfully compiled, committed, and pushed all Week 7 class and assignment problems to GitHub.
 
-**## Session 8**
 
-**### Date**
+##Session 8
+
+Date
 
 2 October 2026
 
-**### Today's Work**
+Today's Work
 
 * Completed the Week 8 Class Problems.
 
@@ -289,7 +291,7 @@
 
 * Committed and pushed the Week 8 class and assignment problems to GitHub.
 
-**### Next Session Plan**
+Next Session Plan
 
 * Continue with the next session's Java programming problems.
 
@@ -297,8 +299,9 @@
 
 * Follow the Git branching and commit workflow.
 
-**### Issues Faced**
+Issues Faced
 
 * No major issues were faced while compiling the Week 8 programs.
 
 * Successfully committed and pushed all Week 8 class and assignment problems to GitHub.
+
