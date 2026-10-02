@@ -189,3 +189,60 @@
 * Resolved the conflict by using `EmployeeProfile` and `CompanyEmployee` as separate class names.
 * Successfully compiled, committed, and pushed all Week 6 class and assignment problems to GitHub.
 
+**## Session 7**
+
+**### Date**
+
+21 September 2026
+
+**### Today's Work**
+
+* Completed the Week 7 Class Problems.
+
+* Implemented:
+
+* The Piggy Bank
+
+* The Quiz Scorecard
+
+* The Nickname Tag
+
+* The Locker Code
+
+* The Attendance Sheet
+
+* Completed the Week 7 Assignment Problems.
+
+* Implemented:
+
+* The Health Bar
+
+* The Playlist
+
+* The Password Checker
+
+* The Traffic Light
+
+* The Shopping Cart
+
+* Practiced encapsulation, private fields, final fields, getters, controlled data modification, immutable objects, safe array copying, and data validation.
+
+* Compiled and tested all the Java programs in VS Code.
+
+* Committed and pushed the Week 7 class and assignment problems to GitHub.
+
+**### Next Session Plan**
+
+* Continue with the next session's Java programming problems.
+
+* Implement and test the assigned programs.
+
+* Follow the Git branching and commit workflow.
+
+**### Issues Faced**
+
+* Faced a file already exists issue while creating the *`TrafficLight.java`* file.
+
+* Resolved the issue by opening and updating the existing file.
+
+* Successfully compiled, committed, and pushed all Week 7 class and assignment problems to GitHub.
