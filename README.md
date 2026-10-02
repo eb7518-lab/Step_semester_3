@@ -190,7 +190,7 @@
 * Successfully compiled, committed, and pushed all Week 6 class and assignment problems to GitHub.
 
 
-**## Session 7**
+## Session 7
 
 **### Date**
 
