@@ -302,3 +302,47 @@
 * No major issues were faced while compiling the Week 8 programs.
 
 * Successfully committed and pushed all Week 8 class and assignment problems to GitHub.
+
+**## Session 9**
+
+**### Date**
+
+10 October 2026
+
+**### Today's Work**
+
+* Completed the Week 9 Class Problems.
+
+* Implemented:
+
+* Garden Plot Area Report
+
+* Weekly Staff Pay
+
+* Library Late Fine Counter
+
+* Electricity Connection Billing
+
+* Travel Booking with a Common Fee
+
+* Practiced abstraction, abstract classes, inheritance, method overriding, polymorphism, and common behavior across different object types.
+
+* Compiled and tested all the Java programs in VS Code.
+
+* Committed and pushed the Week 9 class problems to GitHub.
+
+**### Next Session Plan**
+
+* Continue with the next session's Java programming problems.
+
+* Implement and test the assigned programs.
+
+* Follow the Git branching and commit workflow.
+
+**### Issues Faced**
+
+* Encountered file-already-exists messages while creating files.
+
+* Continued by using the existing files.
+
+* Successfully compiled, committed, and pushed all Week 9 class problems to GitHub.
