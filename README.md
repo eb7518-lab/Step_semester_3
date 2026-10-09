@@ -305,3 +305,40 @@ Issues Faced
 
 * Successfully committed and pushed all Week 8 class and assignment problems to GitHub.
 
+
+## Session 9
+
+### Date
+
+10 October 2026
+
+### Today's Work
+
+Completed the Week 9 Class Problems and Assignment Problems.
+Class Problems Implemented:
+Garden Plot Area Report
+Weekly Staff Pay
+Library Late Fine Counter
+Electricity Connection Billing
+Travel Booking with a Common Fee
+Assignment Problems Implemented:
+Movie Ticket Counter
+Parcel Shipping Desk
+College Fee Counter
+City Cab Fare Meter
+Home Appliance Energy Report
+Practiced abstraction, abstract classes, interfaces, inheritance, method overriding, polymorphism, and common behavior across different object types.
+Compiled and tested the Java programs in VS Code.
+Committed and pushed the Week 9 class and assignment problems to GitHub.
+
+### Next Session Plan
+
+Continue with the next session's Java programming problems.
+Implement and test the assigned programs.
+Follow the Git branching and commit workflow.
+
+### Issues Faced
+
+Encountered file-already-exists messages while creating files.
+Continued by using the existing files.
+Resolved a Git push rejection by fetching remote changes, rebasing the local branch, and pushing successfully.
