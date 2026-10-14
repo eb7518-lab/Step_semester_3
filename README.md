@@ -342,3 +342,42 @@ Follow the Git branching and commit workflow.
 Encountered file-already-exists messages while creating files.
 Continued by using the existing files.
 Resolved a Git push rejection by fetching remote changes, rebasing the local branch, and pushing successfully.
+
+## Session 10
+
+### Date
+
+14 October 2026
+
+### Today's Work
+
+* Completed the Week 10 Class Problems.
+* Implemented:
+
+  * Digit Sum and Reverse
+  * Even-Odd Counter
+  * In-Place Array Reversal
+  * Vowel-Consonant Counter
+  * Word Reverser and Palindrome Checker
+* Completed the Week 10 Assignment Problems.
+* Implemented:
+
+  * Busiest Bus Row
+  * Class Attendance Tracker
+  * Duty Roster Rotation
+  * Exam Score Band Counter
+  * Second-Best Score
+* Practiced array traversal, digit manipulation, string processing, palindrome checking, rotation, streak counting, and binary search.
+* Compiled and tested the Java programs in VS Code.
+* Committed and pushed the Week 10 class and assignment problems to the `feature/session_10` branch.
+
+### Next Session Plan
+
+* Continue with the next session's Java programming problems.
+* Implement and test the assigned programs.
+* Follow the Git branching and commit workflow.
+
+### Issues Faced
+
+* No major Git issues remained after committing and pushing the Week 10 assignment problems.
+* Successfully pushed all Week 10 class and assignment files to GitHub.
